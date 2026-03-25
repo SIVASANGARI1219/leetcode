@@ -9,3 +9,4 @@ class Solution(object):
 
     # Step 2: Check palindrome
         return cleaned == cleaned[::-1]
+        # original cleaned strig == cleaned reverse string
