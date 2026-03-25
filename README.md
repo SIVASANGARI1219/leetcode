@@ -19,6 +19,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SIVASANGARI1219/leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/SIVASANGARI1219/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/SIVASANGARI1219/leetcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIVASANGARI1219/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/SIVASANGARI1219/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
