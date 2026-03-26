@@ -67,4 +67,17 @@
 | [0125-valid-palindrome](https://github.com/SIVASANGARI1219/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SIVASANGARI1219/leetcode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/SIVASANGARI1219/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1392-longest-happy-prefix](https://github.com/SIVASANGARI1219/leetcode/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SIVASANGARI1219/leetcode/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SIVASANGARI1219/leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/SIVASANGARI1219/leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
