@@ -1,21 +1,24 @@
 class Solution:
     def longestPrefix(self, s: str) -> str:
+     
         n = len(s)
         lps = [0] * n
 
-        length = 0  # length of previous longest prefix suffix
-        i = 1
+        a = 0   # plays role of "length" (prefix pointer)
+        b = 1   # current index
 
-        while i < n:
-            if s[i] == s[length]:
-                length += 1
-                lps[i] = length
-                i += 1
+        while b < n:
+            if s[a] == s[b]:
+                a += 1
+                lps[b] = a
+                b += 1
             else:
-                if length != 0:
-                    length = lps[length - 1]
+                if a != 0:
+                    a = lps[a - 1]
                 else:
-                    lps[i] = 0
-                    i += 1
+                    lps[b] = 0
+                    b += 1
 
         return s[:lps[-1]]
+
+        
