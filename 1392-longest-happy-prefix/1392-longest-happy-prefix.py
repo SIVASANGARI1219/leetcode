@@ -1,24 +1,16 @@
 class Solution:
     def longestPrefix(self, s: str) -> str:
-     
-        n = len(s)
-        lps = [0] * n
+        lps = [0] * len(s)
+        a = 0
 
-        a = 0   # plays role of "length" (prefix pointer)
-        b = 1   # current index
-
-        while b < n:
+        for b in range(1, len(s)):
+            while a > 0 and s[a] != s[b]:
+                a = lps[a - 1]
             if s[a] == s[b]:
                 a += 1
-                lps[b] = a
-                b += 1
-            else:
-                if a != 0:
-                    a = lps[a - 1]
-                else:
-                    lps[b] = 0
-                    b += 1
-
-        return s[:lps[-1]]
+            lps[b] = a
+ 
+        return s[:lps[-1]]    
+       
 
         
