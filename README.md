@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIVASANGARI1219/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SIVASANGARI1219/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SIVASANGARI1219/leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/SIVASANGARI1219/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2965-find-missing-and-repeated-values](https://github.com/SIVASANGARI1219/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/SIVASANGARI1219/leetcode/tree/master/1392-longest-happy-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SIVASANGARI1219/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
