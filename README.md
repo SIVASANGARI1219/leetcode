@@ -75,6 +75,7 @@
 | [0242-valid-anagram](https://github.com/SIVASANGARI1219/leetcode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/SIVASANGARI1219/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1392-longest-happy-prefix](https://github.com/SIVASANGARI1219/leetcode/tree/master/1392-longest-happy-prefix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -91,4 +92,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SIVASANGARI1219/leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
