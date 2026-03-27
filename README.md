@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/SIVASANGARI1219/leetcode/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/SIVASANGARI1219/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SIVASANGARI1219/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SIVASANGARI1219/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SIVASANGARI1219/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIVASANGARI1219/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SIVASANGARI1219/leetcode/tree/master/0136-single-number) |
@@ -17,6 +18,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SIVASANGARI1219/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SIVASANGARI1219/leetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SIVASANGARI1219/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
