@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SIVASANGARI1219/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SIVASANGARI1219/leetcode/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/SIVASANGARI1219/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SIVASANGARI1219/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SIVASANGARI1219/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SIVASANGARI1219/leetcode/tree/master/0078-subsets) |
@@ -53,6 +54,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SIVASANGARI1219/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SIVASANGARI1219/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -70,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SIVASANGARI1219/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIVASANGARI1219/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
