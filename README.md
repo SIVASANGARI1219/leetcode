@@ -28,6 +28,7 @@
 | [0075-sort-colors](https://github.com/SIVASANGARI1219/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SIVASANGARI1219/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SIVASANGARI1219/leetcode/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/SIVASANGARI1219/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/SIVASANGARI1219/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -75,6 +76,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/SIVASANGARI1219/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SIVASANGARI1219/leetcode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/SIVASANGARI1219/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/SIVASANGARI1219/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1392-longest-happy-prefix](https://github.com/SIVASANGARI1219/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
