@@ -21,6 +21,7 @@
 | [0239-sliding-window-maximum](https://github.com/SIVASANGARI1219/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2596-check-knight-tour-configuration](https://github.com/SIVASANGARI1219/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/SIVASANGARI1219/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3193-count-the-number-of-inversions](https://github.com/SIVASANGARI1219/leetcode/tree/master/3193-count-the-number-of-inversions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SIVASANGARI1219/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SIVASANGARI1219/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3193-count-the-number-of-inversions](https://github.com/SIVASANGARI1219/leetcode/tree/master/3193-count-the-number-of-inversions) |
 ## String
 |  |
 | ------- |
