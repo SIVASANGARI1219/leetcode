@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SIVASANGARI1219/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SIVASANGARI1219/leetcode/tree/master/0015-3sum) |
+| [0051-n-queens](https://github.com/SIVASANGARI1219/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SIVASANGARI1219/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SIVASANGARI1219/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SIVASANGARI1219/leetcode/tree/master/0075-sort-colors) |
@@ -113,6 +114,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SIVASANGARI1219/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SIVASANGARI1219/leetcode/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
