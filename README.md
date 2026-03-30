@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/SIVASANGARI1219/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SIVASANGARI1219/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SIVASANGARI1219/leetcode/tree/master/0238-product-of-array-except-self) |
+| [2596-check-knight-tour-configuration](https://github.com/SIVASANGARI1219/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/SIVASANGARI1219/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SIVASANGARI1219/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2596-check-knight-tour-configuration](https://github.com/SIVASANGARI1219/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/SIVASANGARI1219/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -107,8 +109,17 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/SIVASANGARI1219/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SIVASANGARI1219/leetcode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/SIVASANGARI1219/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/SIVASANGARI1219/leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
