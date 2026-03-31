@@ -10,6 +10,7 @@
 | [0051-n-queens](https://github.com/SIVASANGARI1219/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SIVASANGARI1219/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SIVASANGARI1219/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SIVASANGARI1219/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SIVASANGARI1219/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SIVASANGARI1219/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SIVASANGARI1219/leetcode/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SIVASANGARI1219/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SIVASANGARI1219/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/SIVASANGARI1219/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/SIVASANGARI1219/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SIVASANGARI1219/leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/SIVASANGARI1219/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
