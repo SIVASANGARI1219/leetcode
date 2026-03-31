@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/SIVASANGARI1219/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SIVASANGARI1219/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SIVASANGARI1219/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0560-subarray-sum-equals-k](https://github.com/SIVASANGARI1219/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2596-check-knight-tour-configuration](https://github.com/SIVASANGARI1219/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/SIVASANGARI1219/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3193-count-the-number-of-inversions](https://github.com/SIVASANGARI1219/leetcode/tree/master/3193-count-the-number-of-inversions) |
@@ -60,6 +61,7 @@
 | [0076-minimum-window-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/SIVASANGARI1219/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SIVASANGARI1219/leetcode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/SIVASANGARI1219/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/SIVASANGARI1219/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SIVASANGARI1219/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SIVASANGARI1219/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
