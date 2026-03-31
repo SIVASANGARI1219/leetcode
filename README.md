@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/SIVASANGARI1219/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SIVASANGARI1219/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SIVASANGARI1219/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0493-reverse-pairs](https://github.com/SIVASANGARI1219/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/SIVASANGARI1219/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2596-check-knight-tour-configuration](https://github.com/SIVASANGARI1219/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/SIVASANGARI1219/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SIVASANGARI1219/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SIVASANGARI1219/leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/SIVASANGARI1219/leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -165,8 +167,25 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SIVASANGARI1219/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0493-reverse-pairs](https://github.com/SIVASANGARI1219/leetcode/tree/master/0493-reverse-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SIVASANGARI1219/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SIVASANGARI1219/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SIVASANGARI1219/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SIVASANGARI1219/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SIVASANGARI1219/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
