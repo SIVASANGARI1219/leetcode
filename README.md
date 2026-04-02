@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SIVASANGARI1219/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/SIVASANGARI1219/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SIVASANGARI1219/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SIVASANGARI1219/leetcode/tree/master/0242-valid-anagram) |
@@ -123,6 +124,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SIVASANGARI1219/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SIVASANGARI1219/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
