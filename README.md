@@ -126,6 +126,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SIVASANGARI1219/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SIVASANGARI1219/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0225-implement-stack-using-queues](https://github.com/SIVASANGARI1219/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SIVASANGARI1219/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -156,6 +157,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SIVASANGARI1219/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/SIVASANGARI1219/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SIVASANGARI1219/leetcode/tree/master/0493-reverse-pairs) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SIVASANGARI1219/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
